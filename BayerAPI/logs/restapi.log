@@ -1,0 +1,357 @@
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase checkUnsupportedPincode ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************500
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase pincodesuppoerted ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropApple ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started status code validation ****************
+[main] INFO  BayerAPI  - **************statuscode is ****************200
+[main] INFO  BayerAPI  - **************status code validated ****************
+[main] INFO  BayerAPI  - **************Ended testcase getAreaCropGrape ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************
+[main] INFO  BayerAPI  - **************started testcase getAreaCropTomato ****************

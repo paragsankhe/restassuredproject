@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name = "BayerAPIsuite">
+<test name = "BayerAPIsuite" >
+<classes>
+<class name = "com.bayerapi.testcases.TC01_GetAreaCrops"/>
+<class name = "com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape"/>
+<class name = "com.bayerapi.testcases.TC03_GetDiseaseDetailsApple"/>
+<class name = "com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato"/>
+
+</classes>
+</test>
+</suite>

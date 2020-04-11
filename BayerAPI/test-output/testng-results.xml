@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BayerAPIsuite" duration-ms="5114" started-at="2020-04-06T15:58:38 IST" finished-at="2020-04-06T15:58:43 IST">
+    <groups>
+    </groups>
+    <test name="BayerAPIsuite" duration-ms="5114" started-at="2020-04-06T15:58:38 IST" finished-at="2020-04-06T15:58:43 IST">
+      <class name="com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape@694e1548]" name="setup" is-config="true" duration-ms="2" started-at="2020-04-06T15:58:42 IST" finished-at="2020-04-06T15:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getDiseaseDetailsGrape()[pri:0, instance:com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape@694e1548]" name="getDiseaseDetailsGrape" is-config="true" duration-ms="49" started-at="2020-04-06T15:58:42 IST" finished-at="2020-04-06T15:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDiseaseDetailsGrape -->
+        <test-method status="PASS" signature="checkDiseaseDescriptionGrape()[pri:0, instance:com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape@694e1548]" name="checkDiseaseDescriptionGrape" duration-ms="42" started-at="2020-04-06T15:58:42 IST" finished-at="2020-04-06T15:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDiseaseDescriptionGrape -->
+        <test-method status="PASS" signature="checkDiseaseIDsGrape()[pri:0, instance:com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape@694e1548]" name="checkDiseaseIDsGrape" duration-ms="48" started-at="2020-04-06T15:58:42 IST" finished-at="2020-04-06T15:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDiseaseIDsGrape -->
+        <test-method status="PASS" signature="checkDiseaseNamesGrape()[pri:0, instance:com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape@694e1548]" name="checkDiseaseNamesGrape" duration-ms="47" started-at="2020-04-06T15:58:42 IST" finished-at="2020-04-06T15:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDiseaseNamesGrape -->
+        <test-method status="PASS" signature="checkImageListGrape()[pri:0, instance:com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape@694e1548]" name="checkImageListGrape" duration-ms="42" started-at="2020-04-06T15:58:42 IST" finished-at="2020-04-06T15:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkImageListGrape -->
+      </class> <!-- com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape -->
+      <class name="com.bayerapi.testcases.TC01_GetAreaCrops">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.bayerapi.testcases.TC01_GetAreaCrops@1f554b06]" name="setup" is-config="true" duration-ms="137" started-at="2020-04-06T15:58:38 IST" finished-at="2020-04-06T15:58:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkUnsupportedPincodeApple()[pri:0, instance:com.bayerapi.testcases.TC01_GetAreaCrops@1f554b06]" name="checkUnsupportedPincodeApple" duration-ms="3932" started-at="2020-04-06T15:58:38 IST" finished-at="2020-04-06T15:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUnsupportedPincodeApple -->
+        <test-method status="PASS" signature="getAreaCropApple()[pri:0, instance:com.bayerapi.testcases.TC01_GetAreaCrops@1f554b06]" name="getAreaCropApple" duration-ms="93" started-at="2020-04-06T15:58:42 IST" finished-at="2020-04-06T15:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAreaCropApple -->
+        <test-method status="PASS" signature="getAreaCropGrape()[pri:0, instance:com.bayerapi.testcases.TC01_GetAreaCrops@1f554b06]" name="getAreaCropGrape" duration-ms="95" started-at="2020-04-06T15:58:42 IST" finished-at="2020-04-06T15:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAreaCropGrape -->
+        <test-method status="PASS" signature="getAreaCropTomato()[pri:0, instance:com.bayerapi.testcases.TC01_GetAreaCrops@1f554b06]" name="getAreaCropTomato" duration-ms="98" started-at="2020-04-06T15:58:42 IST" finished-at="2020-04-06T15:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAreaCropTomato -->
+      </class> <!-- com.bayerapi.testcases.TC01_GetAreaCrops -->
+      <class name="com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato@131276c2]" name="setup" is-config="true" duration-ms="2" started-at="2020-04-06T15:58:43 IST" finished-at="2020-04-06T15:58:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getDiseaseDetailsTomato()[pri:0, instance:com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato@131276c2]" name="getDiseaseDetailsTomato" is-config="true" duration-ms="52" started-at="2020-04-06T15:58:43 IST" finished-at="2020-04-06T15:58:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDiseaseDetailsTomato -->
+        <test-method status="PASS" signature="checkDiseaseDescriptionTomato()[pri:0, instance:com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato@131276c2]" name="checkDiseaseDescriptionTomato" duration-ms="45" started-at="2020-04-06T15:58:43 IST" finished-at="2020-04-06T15:58:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDiseaseDescriptionTomato -->
+        <test-method status="PASS" signature="checkDiseaseIDsTomato()[pri:0, instance:com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato@131276c2]" name="checkDiseaseIDsTomato" duration-ms="32" started-at="2020-04-06T15:58:43 IST" finished-at="2020-04-06T15:58:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDiseaseIDsTomato -->
+        <test-method status="PASS" signature="checkDiseaseNamesTomato()[pri:0, instance:com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato@131276c2]" name="checkDiseaseNamesTomato" duration-ms="33" started-at="2020-04-06T15:58:43 IST" finished-at="2020-04-06T15:58:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDiseaseNamesTomato -->
+        <test-method status="PASS" signature="checkImageListTomato()[pri:0, instance:com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato@131276c2]" name="checkImageListTomato" duration-ms="36" started-at="2020-04-06T15:58:43 IST" finished-at="2020-04-06T15:58:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkImageListTomato -->
+      </class> <!-- com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato -->
+      <class name="com.bayerapi.testcases.TC03_GetDiseaseDetailsApple">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.bayerapi.testcases.TC03_GetDiseaseDetailsApple@1c3a4799]" name="setup" is-config="true" duration-ms="3" started-at="2020-04-06T15:58:42 IST" finished-at="2020-04-06T15:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getDiseaseDetailsApple()[pri:0, instance:com.bayerapi.testcases.TC03_GetDiseaseDetailsApple@1c3a4799]" name="getDiseaseDetailsApple" is-config="true" duration-ms="57" started-at="2020-04-06T15:58:42 IST" finished-at="2020-04-06T15:58:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDiseaseDetailsApple -->
+        <test-method status="PASS" signature="checkDiseaseDescriptionApple()[pri:0, instance:com.bayerapi.testcases.TC03_GetDiseaseDetailsApple@1c3a4799]" name="checkDiseaseDescriptionApple" duration-ms="38" started-at="2020-04-06T15:58:43 IST" finished-at="2020-04-06T15:58:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDiseaseDescriptionApple -->
+        <test-method status="PASS" signature="checkDiseaseIDsApple()[pri:0, instance:com.bayerapi.testcases.TC03_GetDiseaseDetailsApple@1c3a4799]" name="checkDiseaseIDsApple" duration-ms="52" started-at="2020-04-06T15:58:43 IST" finished-at="2020-04-06T15:58:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDiseaseIDsApple -->
+        <test-method status="PASS" signature="checkDiseaseNamesApple()[pri:0, instance:com.bayerapi.testcases.TC03_GetDiseaseDetailsApple@1c3a4799]" name="checkDiseaseNamesApple" duration-ms="38" started-at="2020-04-06T15:58:43 IST" finished-at="2020-04-06T15:58:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDiseaseNamesApple -->
+        <test-method status="PASS" signature="checkImageListApple()[pri:0, instance:com.bayerapi.testcases.TC03_GetDiseaseDetailsApple@1c3a4799]" name="checkImageListApple" duration-ms="40" started-at="2020-04-06T15:58:43 IST" finished-at="2020-04-06T15:58:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkImageListApple -->
+      </class> <!-- com.bayerapi.testcases.TC03_GetDiseaseDetailsApple -->
+    </test> <!-- BayerAPIsuite -->
+  </suite> <!-- BayerAPIsuite -->
+</testng-results>

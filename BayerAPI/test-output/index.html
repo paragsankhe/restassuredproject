@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-BayerAPIsuite">
+              <span class="suite-name border-passed">BayerAPIsuite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-BayerAPIsuite">
+                    <span>C:\Users\HAP\eclipse-workspace\BayerAPI\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-BayerAPIsuite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-BayerAPIsuite">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-BayerAPIsuite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-BayerAPIsuite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-BayerAPIsuite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-BayerAPIsuite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">16 methods,   16 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-BayerAPIsuite" class="hide-methods passed suite-BayerAPIsuite"> (hide)</a> <!-- hide-methods passed suite-BayerAPIsuite -->
+                      <a href="#" panel-name="suite-BayerAPIsuite" class="show-methods passed suite-BayerAPIsuite"> (show)</a> <!-- show-methods passed suite-BayerAPIsuite -->
+                    </span>
+                    <div class="method-list-content passed suite-BayerAPIsuite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC03_GetDiseaseDetailsApple" hash-for-method="checkDiseaseDescriptionApple">checkDiseaseDescriptionApple</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape" hash-for-method="checkDiseaseDescriptionGrape">checkDiseaseDescriptionGrape</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato" hash-for-method="checkDiseaseDescriptionTomato">checkDiseaseDescriptionTomato</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC03_GetDiseaseDetailsApple" hash-for-method="checkDiseaseIDsApple">checkDiseaseIDsApple</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape" hash-for-method="checkDiseaseIDsGrape">checkDiseaseIDsGrape</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato" hash-for-method="checkDiseaseIDsTomato">checkDiseaseIDsTomato</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC03_GetDiseaseDetailsApple" hash-for-method="checkDiseaseNamesApple">checkDiseaseNamesApple</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape" hash-for-method="checkDiseaseNamesGrape">checkDiseaseNamesGrape</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato" hash-for-method="checkDiseaseNamesTomato">checkDiseaseNamesTomato</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC03_GetDiseaseDetailsApple" hash-for-method="checkImageListApple">checkImageListApple</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape" hash-for-method="checkImageListGrape">checkImageListGrape</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato" hash-for-method="checkImageListTomato">checkImageListTomato</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC01_GetAreaCrops" hash-for-method="checkUnsupportedPincodeApple">checkUnsupportedPincodeApple</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC01_GetAreaCrops" hash-for-method="getAreaCropApple">getAreaCropApple</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC01_GetAreaCrops" hash-for-method="getAreaCropGrape">getAreaCropGrape</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BayerAPIsuite" title="com.bayerapi.testcases.TC01_GetAreaCrops" hash-for-method="getAreaCropTomato">getAreaCropTomato</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-BayerAPIsuite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-BayerAPIsuite" class="panel BayerAPIsuite">
+          <div class="suite-BayerAPIsuite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.bayerapi.testcases.TC03_GetDiseaseDetailsApple</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkDiseaseDescriptionApple">
+                  </a> <!-- checkDiseaseDescriptionApple -->
+                  <span class="method-name">checkDiseaseDescriptionApple</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkDiseaseIDsApple">
+                  </a> <!-- checkDiseaseIDsApple -->
+                  <span class="method-name">checkDiseaseIDsApple</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkDiseaseNamesApple">
+                  </a> <!-- checkDiseaseNamesApple -->
+                  <span class="method-name">checkDiseaseNamesApple</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkImageListApple">
+                  </a> <!-- checkImageListApple -->
+                  <span class="method-name">checkImageListApple</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-BayerAPIsuite-class-passed -->
+          <div class="suite-BayerAPIsuite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkDiseaseDescriptionTomato">
+                  </a> <!-- checkDiseaseDescriptionTomato -->
+                  <span class="method-name">checkDiseaseDescriptionTomato</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkDiseaseIDsTomato">
+                  </a> <!-- checkDiseaseIDsTomato -->
+                  <span class="method-name">checkDiseaseIDsTomato</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkDiseaseNamesTomato">
+                  </a> <!-- checkDiseaseNamesTomato -->
+                  <span class="method-name">checkDiseaseNamesTomato</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkImageListTomato">
+                  </a> <!-- checkImageListTomato -->
+                  <span class="method-name">checkImageListTomato</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-BayerAPIsuite-class-passed -->
+          <div class="suite-BayerAPIsuite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.bayerapi.testcases.TC01_GetAreaCrops</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkUnsupportedPincodeApple">
+                  </a> <!-- checkUnsupportedPincodeApple -->
+                  <span class="method-name">checkUnsupportedPincodeApple</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="getAreaCropApple">
+                  </a> <!-- getAreaCropApple -->
+                  <span class="method-name">getAreaCropApple</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="getAreaCropGrape">
+                  </a> <!-- getAreaCropGrape -->
+                  <span class="method-name">getAreaCropGrape</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="getAreaCropTomato">
+                  </a> <!-- getAreaCropTomato -->
+                  <span class="method-name">getAreaCropTomato</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-BayerAPIsuite-class-passed -->
+          <div class="suite-BayerAPIsuite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkDiseaseDescriptionGrape">
+                  </a> <!-- checkDiseaseDescriptionGrape -->
+                  <span class="method-name">checkDiseaseDescriptionGrape</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkDiseaseIDsGrape">
+                  </a> <!-- checkDiseaseIDsGrape -->
+                  <span class="method-name">checkDiseaseIDsGrape</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkDiseaseNamesGrape">
+                  </a> <!-- checkDiseaseNamesGrape -->
+                  <span class="method-name">checkDiseaseNamesGrape</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkImageListGrape">
+                  </a> <!-- checkImageListGrape -->
+                  <span class="method-name">checkImageListGrape</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-BayerAPIsuite-class-passed -->
+        </div> <!-- panel BayerAPIsuite -->
+        <div panel-name="test-xml-BayerAPIsuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\HAP\eclipse-workspace\BayerAPI\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;BayerAPIsuite&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;BayerAPIsuite&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.bayerapi.testcases.TC01_GetAreaCrops&quot;/&gt;
+      &lt;class name=&quot;com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape&quot;/&gt;
+      &lt;class name=&quot;com.bayerapi.testcases.TC03_GetDiseaseDetailsApple&quot;/&gt;
+      &lt;class name=&quot;com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- BayerAPIsuite --&gt;
+&lt;/suite&gt; &lt;!-- BayerAPIsuite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-BayerAPIsuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for BayerAPIsuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">BayerAPIsuite (4 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-BayerAPIsuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for BayerAPIsuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-BayerAPIsuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for BayerAPIsuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_BayerAPIsuite');
+function tableData_BayerAPIsuite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(16);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'checkUnsupportedPincodeApple')
+data.setCell(0, 2, 'com.bayerapi.testcases.TC01_GetAreaCrops')
+data.setCell(0, 3, 3932);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'getAreaCropTomato')
+data.setCell(1, 2, 'com.bayerapi.testcases.TC01_GetAreaCrops')
+data.setCell(1, 3, 98);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'getAreaCropGrape')
+data.setCell(2, 2, 'com.bayerapi.testcases.TC01_GetAreaCrops')
+data.setCell(2, 3, 95);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'getAreaCropApple')
+data.setCell(3, 2, 'com.bayerapi.testcases.TC01_GetAreaCrops')
+data.setCell(3, 3, 93);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'checkDiseaseIDsApple')
+data.setCell(4, 2, 'com.bayerapi.testcases.TC03_GetDiseaseDetailsApple')
+data.setCell(4, 3, 52);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'checkDiseaseIDsGrape')
+data.setCell(5, 2, 'com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape')
+data.setCell(5, 3, 48);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'checkDiseaseNamesGrape')
+data.setCell(6, 2, 'com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape')
+data.setCell(6, 3, 47);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'checkDiseaseDescriptionTomato')
+data.setCell(7, 2, 'com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato')
+data.setCell(7, 3, 45);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'checkImageListGrape')
+data.setCell(8, 2, 'com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape')
+data.setCell(8, 3, 42);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'checkDiseaseDescriptionGrape')
+data.setCell(9, 2, 'com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape')
+data.setCell(9, 3, 42);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'checkImageListApple')
+data.setCell(10, 2, 'com.bayerapi.testcases.TC03_GetDiseaseDetailsApple')
+data.setCell(10, 3, 40);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'checkDiseaseNamesApple')
+data.setCell(11, 2, 'com.bayerapi.testcases.TC03_GetDiseaseDetailsApple')
+data.setCell(11, 3, 38);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'checkDiseaseDescriptionApple')
+data.setCell(12, 2, 'com.bayerapi.testcases.TC03_GetDiseaseDetailsApple')
+data.setCell(12, 3, 38);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'checkImageListTomato')
+data.setCell(13, 2, 'com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato')
+data.setCell(13, 3, 36);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'checkDiseaseNamesTomato')
+data.setCell(14, 2, 'com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato')
+data.setCell(14, 3, 33);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'checkDiseaseIDsTomato')
+data.setCell(15, 2, 'com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato')
+data.setCell(15, 3, 32);
+window.suiteTableData['BayerAPIsuite']= { tableData: data, tableDiv: 'times-div-BayerAPIsuite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 4 seconds</span>
+              <div id="times-div-BayerAPIsuite">
+              </div> <!-- times-div-BayerAPIsuite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-BayerAPIsuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for BayerAPIsuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-BayerAPIsuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-BayerAPIsuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.bayerapi.testcases.TC01_GetAreaCrops</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">checkUnsupportedPincodeApple</span>
+                <span class="method-start">163 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">getAreaCropApple</span>
+                <span class="method-start">4101 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">getAreaCropGrape</span>
+                <span class="method-start">4197 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">getAreaCropTomato</span>
+                <span class="method-start">4294 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup</span>
+                <span class="method-start">4398 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-class before">
+                <span class="method-name">getDiseaseDetailsGrape</span>
+                <span class="method-start">4400 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">checkDiseaseDescriptionGrape</span>
+                <span class="method-start">4449 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkDiseaseIDsGrape</span>
+                <span class="method-start">4492 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkDiseaseNamesGrape</span>
+                <span class="method-start">4544 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkImageListGrape</span>
+                <span class="method-start">4593 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.bayerapi.testcases.TC03_GetDiseaseDetailsApple</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup</span>
+                <span class="method-start">4636 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-class before">
+                <span class="method-name">getDiseaseDetailsApple</span>
+                <span class="method-start">4639 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">checkDiseaseDescriptionApple</span>
+                <span class="method-start">4696 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkDiseaseIDsApple</span>
+                <span class="method-start">4735 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkDiseaseNamesApple</span>
+                <span class="method-start">4789 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkImageListApple</span>
+                <span class="method-start">4829 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.bayerapi.testcases.TC04_GetDiseaseDetailsTomato</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup</span>
+                <span class="method-start">4871 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-class before">
+                <span class="method-name">getDiseaseDetailsTomato</span>
+                <span class="method-start">4874 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">checkDiseaseDescriptionTomato</span>
+                <span class="method-start">4927 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkDiseaseIDsTomato</span>
+                <span class="method-start">4973 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkDiseaseNamesTomato</span>
+                <span class="method-start">5007 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkImageListTomato</span>
+                <span class="method-start">5041 ms</span>
+              </div> <!-- test-method -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>
