@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape">
+      <class name="com.bayerapi.testcases.AmrutaPOC">
         <methods>
-          <include name="getDiseaseDetailsGrape"/>
-          <include name="checkImageListGrape"/>
           <include name="setup"/>
+          <include name="getAreaCropGrape"/>
         </methods>
-      </class> <!-- com.bayerapi.testcases.TC02_GetDiseaseDetailsGrape -->
+      </class> <!-- com.bayerapi.testcases.AmrutaPOC -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
