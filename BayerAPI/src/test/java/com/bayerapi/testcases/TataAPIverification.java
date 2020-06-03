@@ -24,12 +24,12 @@ import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
-public class AmrutaPOC extends TestBase {
+public class TataAPIverification extends TestBase {
 
 	@Test
 	
 //changes123
-	public void getAreaCropGrape() throws IOException {
+	public void verifyapi() throws IOException {
 		
 		InputStream ExcelFileToRead = new FileInputStream("C:\\Users\\HAP\\Desktop\\Mysheet.xlsx");
         XSSFWorkbook  wb = new XSSFWorkbook(ExcelFileToRead);
